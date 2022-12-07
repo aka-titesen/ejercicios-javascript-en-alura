@@ -1,1 +1,2 @@
-# ejercicios-javascript-en-alura
+## JavaScript
+Ejercicios realizados de JavaScript conectado con HTML para mostrar una vista
